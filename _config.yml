@@ -1,0 +1,60 @@
+page_gen-dirs: true # uncomment, if you prefer to generate named folders
+plugins:
+  - jekyll-datapage-generator
+
+page_gen:
+  - data: 'sample_comma_separated_TBESH_formatted'
+    template: 'lexiconEntry'
+    dir: 'w'
+    index_files: false
+    name_expr: record["strongNumber"]
+#    name: 'strongNumber'    
+  - data: partiallexicons
+    template: 'lexicon'
+    dir: ''
+    index_files: false
+    name_expr: record["nameid"]
+
+footer: '<a href="https://ibc.oarc.science/" target="_blank">Institut pour le  contenu biblique</a>. <strong>Hébreu biblique pour linguistes : lexique analytique multilingue de l'hébreu biblique</strong>.<br>Mis en œuvre par <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a>, PhD dans le cadre du projet de recherche à l'<a href="https://ens.fr" target="_blank">ENS</a>. Utilise <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.<br><a href="https://seveleu.com/pages/bh-resource">À propos</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Écouter de l'audio</a>'
+firstyear: 2014
+github: "https://github.com/wlcling"
+keyboardreminder: 'Pour naviguer en avant et en arrière, utiliser les touches fléchées <span class="shadow">←</span> et <span class="shadow">→</span> du clavier<br>'
+
+website: "https://lex.ibc.oarc.science"
+readersite: "https://wlc.ibc.oarc.science"
+readersiteprefix: fr
+siteprefix: fr
+lang: fr
+sitename: Hébreu biblique pour linguistes
+heading1: Strong's
+subname: Lexique analytique de l'hébreu biblique
+lexicon1entries: entrées
+lexicon2marked: marquées
+lexicalentry1etymology: Étymologie
+lexicalentry2roots: Racines
+lexicalentry3variants: Variantes
+lexicalentry4letternumbering: " ABCDEFG"
+lexicalentry5mentionedin: "Apparitions dans le texte biblique :"
+index1title: Page principale
+index2intro: Les lexiques ordonnés par fréquence sont marqués
+index3intro: ceux classés par ordre alphabétique
+index4general: Lexique général
+index5contentful: Parties du discours lexicales
+index6functional: Parties du discours grammaticales
+index7proper: Noms propres par classe sémantique
+grid4: 4
+grid5: 3
+grid6: 3
+grid7: 4
+coefficient4: 1
+coefficient5: 1
+coefficient6: 1.3
+coefficient7: 1.05
+size4: 1.17
+size5: 1.17
+size6: 0.9
+size7: 1.1
+landingpartial1: classés par ordre alphabétique
+landingpartial2: ordre alphabétique
+landingpartial3: ordonnés par fréquence
+landingpartial4: ordre par fréquence

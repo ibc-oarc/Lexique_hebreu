@@ -1,0 +1,42 @@
+key,value,fulldescription
+A,adj,adjective
+A-F,"adj, f","adjective, feminine"
+A-M,"adj, m","adjective, masculine"
+A_N,n<sup>א</sup>,[Aramaic] noun
+A_N-M,"n, m<sup>א</sup>","[Aramaic] noun, masculine"
+ADV,adv,adverb
+CONJ,conj,conjunction
+D,dem,demonstrative pronoun
+H_N,n<sup>ע</sup>,[Hebrew] noun
+H_N-M,"n, m<sup>ע</sup>","[Hebrew] noun, masculine"
+I,int,interrogative
+INJ,intj,interjection
+N,n,noun
+N-F,"n, f","noun, feminine"
+N-M,"n, m","noun, masculine"
+N-M/F,"n, m/f","noun, masculine or feminine"
+N_A,pr adj,proper adjective
+N_N--L,pr n loc,proper name of a location
+N_N--LG,pr n loc gen,proper name of a location in gentilic sense
+N_N--PG,pr n pers gen,proper name of a person in gentilic sense
+N_N--T,pr n title,proper name of some kind
+N_N--TG,pr n title gen,proper name of some kind in gentilic sense
+N_N-F-L,pr n f loc,"proper name of a location, feminine"
+N_N-F-P,pr n f pers,proper name of a female person
+N_N-F-PG,pr n f pers gen,proper name of a female person in gentilic sense
+N_N-F-T,pr n f title,proper name of a female of some kind
+N_N-M,pr n m,"proper name, masculine"
+N_N-M-P,pr n m pers,proper name of a male person
+N_N-M-PG,pr n m pers gen,proper name of a male person in gentilic sense
+N_N-M-T,pr n m title,proper name of a male of some kind
+NP,neg,negative
+P,p,personal pronoun
+P-FP,p fp,"personal pronoun, feminine plural"
+P-FS,p fs,"personal pronoun, feminine singular"
+P-MP,p mp,"personal pronoun, masculine plural"
+P-MS,p ms,"personal pronoun, masculine singular"
+PREP,prep,preposition
+PRON,pron,pronoun
+PRT,part,particle
+R,rel,relative pronoun
+V,v,verb

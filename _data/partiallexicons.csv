@@ -1,0 +1,35 @@
+nameid,title,ordered,whereexpkey,morpholist,section
+lexicon-all,All lexemes,ordered alphabetically,true,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
+lexicon-frequency,All lexemes,ordered by frequency,true,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
+nouns-all,Nouns,ordered alphabetically,morpholist contains key.morphology,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
+nouns-frequency,Nouns,ordered by frequency,morpholist contains key.morphology,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
+verbs-all,Verbs,ordered alphabetically,morpholist contains key.morphology,V,pos-content
+verbs-frequency,Verbs,ordered by frequency,morpholist contains key.morphology,V,pos-content
+adjectives-all,Adjectives,ordered alphabetically,morpholist contains key.morphology,A;A-F;A-M,pos-content
+adjectives-frequency,Adjectives,ordered by frequency,morpholist contains key.morphology,A;A-F;A-M,pos-content
+adverbs-all,Adverbs,ordered alphabetically,morpholist contains key.morphology,ADV,pos-content
+adverbs-frequency,Adverbs,ordered by frequency,morpholist contains key.morphology,ADV,pos-content
+interjections-all,Interjections,ordered alphabetically,morpholist contains key.morphology,INJ,pos-function
+interjections-frequency,Interjections,ordered by frequency,morpholist contains key.morphology,INJ,pos-function
+prepositions-all,Prepositions,ordered alphabetically,morpholist contains key.morphology,PREP,pos-function
+prepositions-frequency,Prepositions,ordered by frequency,morpholist contains key.morphology,PREP,pos-function
+demonstratives-all,Demonstrative pronouns,ordered alphabetically,morpholist contains key.morphology,D,pos-function
+demonstratives-frequency,Demonstrative pronouns,ordered by frequency,morpholist contains key.morphology,D,pos-function
+personal-pronouns-all,Personal pronouns,ordered alphabetically,morpholist contains key.morphology,P;P-FP;P-FS;P-MP;P-MS,pos-function
+personal-frequency,Personal pronouns,ordered by frequency,morpholist contains key.morphology,P;P-FP;P-FS;P-MP;P-MS,pos-function
+conjunctions-all,Conjunctions,ordered alphabetically,morpholist contains key.morphology,CONJ,pos-function
+conjunctions-frequency,Conjunctions,ordered by frequency,morpholist contains key.morphology,CONJ,pos-function
+particles-all,Particles,ordered alphabetically,morpholist contains key.morphology,PRT,pos-function
+particles-frequency,Particles,ordered by frequency,morpholist contains key.morphology,PRT,pos-function
+interrogatives-frequency,Interrogatives,ordered by frequency,morpholist contains key.morphology,I,pos-function
+negatives-frequency,Negatives,ordered by frequency,morpholist contains key.morphology,NP,pos-function
+pronouns-frequency,Pronouns,ordered by frequency,morpholist contains key.morphology,PRON,pos-function
+relatives-frequency,Relative pronouns,ordered by frequency,morpholist contains key.morphology,R,pos-function
+persons-all,Persons,ordered alphabetically,morpholist contains key.morphology,N_N-M-P;N_N-F-P;N_N-F-PG;N_N-M-PG;N_N--PG,meaning
+persons-frequency,Persons,ordered by frequency,morpholist contains key.morphology,N_N-M-P;N_N-F-P;N_N-F-PG;N_N-M-PG;N_N--PG,meaning
+locations-all,Locations,ordered alphabetically,morpholist contains key.morphology,N_N--LG;N_N--L;N_N-F-L,meaning
+locations-frequency,Locations,ordered by frequency,morpholist contains key.morphology,N_N--LG;N_N--L;N_N-F-L,meaning
+gentilics-all,Gentilics,ordered alphabetically,morpholist contains key.morphology,N_N-F-PG;N_N-M-PG;N_N--PG;N_N--LG;N_N--TG,meaning
+gentilics-frequency,Gentilics,ordered by frequency,morpholist contains key.morphology,N_N-F-PG;N_N-M-PG;N_N--PG;N_N--LG;N_N--TG,meaning
+titles-all,Titles,ordered alphabetically,morpholist contains key.morphology,N_N-M-T;N_N-F-T;N_N--T;N_N--TG,meaning
+titles-frequency,Titles,ordered by frequency,morpholist contains key.morphology,N_N-M-T;N_N-F-T;N_N--T;N_N--TG,meaning
