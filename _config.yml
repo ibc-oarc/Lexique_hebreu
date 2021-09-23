@@ -15,7 +15,7 @@ page_gen:
     index_files: false
     name_expr: record["nameid"]
 
-footer: '<a href="https://ibc.oarc.science/" target="_blank">Institut pour le  contenu biblique</a>. <strong>Hébreu biblique pour linguistes : lexique analytique multilingue de l’hébreu biblique</strong>.<br>Mis en œuvre par <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a>, PhD dans le cadre du projet de recherche à l’<a href="https://ens.fr" target="_blank">ENS</a>. Utilise <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.<br><a href="https://seveleu.com/pages/bh-resource">À propos</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Écouter de l’audio</a>'
+footer: '<a href="https://ibc.oarc.science/" target="_blank">Institut pour le  contenu biblique</a>. <strong>Hébreu biblique pour linguistes : lexique analytique multilingue de l’hébreu biblique</strong>.<br>Mis en œuvre par <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a>, PhD initialement dans le cadre du projet de recherche à l’<a href="https://ens.fr" target="_blank">ENS</a>. Utilise <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.<br><a href="https://seveleu.com/pages/bh-resource">À propos</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Écouter de l’audio</a>'
 firstyear: 2014
 github: "https://github.com/wlcling"
 keyboardreminder: 'Pour naviguer en avant et en arrière, utiliser les touches fléchées <span class="shadow">←</span> et <span class="shadow">→</span> du clavier<br>'
