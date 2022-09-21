@@ -20,8 +20,8 @@ firstyear: 2014
 github: "https://github.com/ibc-oarc/Lexique_hebreu"
 keyboardreminder: 'Pour naviguer en avant et en arrière, utiliser les touches fléchées <span class="shadow">←</span> et <span class="shadow">→</span> du clavier<br>'
 
-website: "https://lex.ibc.oarc.science"
-readersite: "https://wlc.ibc.oarc.science"
+website: "https://bh.seveleu.com"
+readersite: "https://bh.seveleu.com"
 readersiteprefix: fr
 siteprefix: fr
 lang: fr
